@@ -1,0 +1,6 @@
+*.o
+*.a
+test_printf
+.vscode/
+pft_2019/
+*.out
